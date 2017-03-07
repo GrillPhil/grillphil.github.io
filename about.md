@@ -13,7 +13,7 @@ In the early 2000s we published 3 different titles, licensed those to roughly 60
 
 Meanwhile I did a bachelor degree in business administration and advertising at the [University of Pforzheim](https://www.hs-pforzheim.de). We soon moved the company from my parents house to a business incubator, [Innotec](http://www.innotec-pforzheim.de/) in Pforzheim.  
 
-2008 I got into .NET and C# when I started working with Silverlight doing numerous trainings and projects for Microsoft. My interest for the Microsoft ecosystem grew with the releases of Windows Phone and later Windows 8 with it's new app runtimes. Me and my team since designed and built various consumer and line of business apps using WinRT and now the Universal Windows Platform.  
+2008 I got into .NET and C# when I started working with Silverlight and WPF doing numerous trainings and projects. My interest for the Microsoft ecosystem grew with the releases of Windows Phone and later Windows 8 with it's new app runtimes. Me and my team since designed and built various consumer and line of business apps using WinRT and now the Universal Windows Platform.  
 
 ![Philipp Bauknecht](../images/mvp.png){:style="height:160px;display:block;margin:0 auto;margin-top:60px;margin-bottom:30px;"}
 I was awarded a Microsoft Most Valuable Professional for Windows Development in 2013, 2014, 2015 and 2016 and had the great joy of attending the Global MVP Summit in Redmond ever since. See my MVP profile [here](https://mvp.microsoft.com/en-us/PublicProfile/5000176?fullName=Philipp%20%20Bauknecht).   
